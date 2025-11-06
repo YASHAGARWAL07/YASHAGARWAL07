@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 About Me<br>I'm Yash Agarwal, a B.Tech Computer Science student at the Central University of Rajasthan (CURAJ). I'm currently focused on building a strong foundation in Data Structures & Algorithms (DSA) with C++ and am passionate about the intersection of technology that solves real-world problems.<br><br>My interests are broad—from Web Development to the critical field of Cybersecurity, where I've gained hands-on experience in ethical hacking and penetration testing through internships. I am now actively expanding my knowledge into Artificial Intelligence and am fascinated by the power and potential of Large Language Models (LLMs).<br><br>I'm always eager to learn, build, and collaborate. Feel free to reach out!<br><br>🌱 Currently Learning: Advanced DSA, Secure Web Development, and the fundamentals of AI/LLMs.<br><br>🤝 Looking to Collaborate: Open-source projects related to web development, cybersecurity tools, or AI/ML.<br><br>I'm currently working on... Mastering Data Structures & Algorithms (DSA) and building new web development projects.<br><br>I'm looking to collaborate on... Open-source projects in web development, cybersecurity, or AI/ML.<br><br>I'm looking for help with... Advanced concepts in secure full-stack development and AI/LLM applications.<br><br>I'm currently learning... Advanced DSA (C++), web technologies, and the fundamentals of Artificial Intelligence & LLMs.<br><br>Ask me about... The fundamentals of ethical hacking, C++/Python, or my journey into AI.<br><br>Fun fact... When I'm not learning new algorithms, I'm probably planning my next move in a game of chess.
 
-<!--
-**YASHAGARWAL07/YASHAGARWAL07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-agarwal0007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YASH_AGARWAL_O7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YashAgarwal0fficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashagarwal4869@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YASHAGARWAL07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YASHAGARWAL07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YASHAGARWAL07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=YASHAGARWAL07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
