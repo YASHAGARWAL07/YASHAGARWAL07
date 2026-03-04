@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Agarwal</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=22C55E&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Data+Structures+%26+Algorithms+Enthusiast;B.Tech+CSE+%7C+Central+University+of+Rajasthan;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&color=22C55E&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Data+Structures+%26+Algorithms+Enthusiast;B.Tech+CSE+%7C+Central+University+of+Rajasthan;Building+Scalable+Web+Applications" />
 </p>
 
 ---
@@ -11,8 +11,8 @@
 * 🎓 **B.Tech CSE — Central University of Rajasthan**
 * 💻 **Full Stack Developer (MERN Stack)**
 * 🧠 Practicing **Data Structures & Algorithms regularly**
-* 🔭 Currently working on **CURAJ Campus Hub**
-* 🤖 Built ML project **Heart Disease Prediction Model**
+* 🔭 Currently building **CURAJ Campus Hub**
+* 🤖 Built **Heart Disease Prediction Model**
 * 🤝 Built **CURAJ AI Assistant (SIH Prototype)**
 * 🌱 Currently learning **Advanced DSA & System Design**
 
@@ -54,11 +54,9 @@
 
 # 🧠 Competitive Programming
 
-### LeetCode Stats
-
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YASH_AGARWAL_07?theme=dark&font=baloo&ext=contest"/>
+<img src="https://leetcode.card.workers.dev/YASH_AGARWAL_07?theme=dark&font=baloo"/>
 
 </p>
 
@@ -86,7 +84,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -102,7 +100,7 @@
 | -------------------------------------- | -------------------------------------------------------------------------------------------- |
 | **CURAJ Campus Hub**                   | Platform for Central University of Rajasthan students to access campus resources and updates |
 | **Heart Disease Prediction Model**     | Machine learning model predicting heart disease risk using medical data                      |
-| **CURAJ AI Assistant (SIH Prototype)** | AI chatbot prototype to help students access university information                          |
+| **CURAJ AI Assistant (SIH Prototype)** | AI chatbot prototype designed to help students access university information                 |
 
 ---
 
