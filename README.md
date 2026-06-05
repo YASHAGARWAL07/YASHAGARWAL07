@@ -49,19 +49,9 @@ CS undergraduate at the Central University of Rajasthan. I build full-stack appl
 
 ## &#9656;&nbsp; GitHub Stats
 
-<!--
-  These cards are GENERATED LOCALLY by the GitHub Action in
-  .github/workflows/profile-stats.yml and committed to this repo as SVGs.
-  They load straight from GitHub, so they never hit Vercel rate limits.
-
-  Until the Action runs once, these paths 404. Either:
-    1. Add the workflow file (instructions below the cards), push, and let it run, OR
-    2. Temporarily swap the four src paths back to the live Vercel URLs:
-         https://github-readme-stats.vercel.app/api?username=YASHAGARWAL07&...
--->
 <p align="center">
-  <img width="49%" src="./github-metrics/overview.svg" alt="GitHub overview stats"/>
-  <img width="49%" src="./github-metrics/languages.svg" alt="Top languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YASHAGARWAL07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00ff88&icon_color=00c6ff&cache_seconds=86400"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHAGARWAL07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00ff88&cache_seconds=86400"/>
 </p>
 
 <p align="center">
@@ -91,13 +81,17 @@ CS undergraduate at the Central University of Rajasthan. I build full-stack appl
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/YASHAGARWAL07/curaj-campus-hub">CURAJ Campus Hub</a></h3>
-      <p>All-in-one campus utility platform for Central University of Rajasthan students &mdash; Lost &amp; Found, ride sharing, marketplace, and shared notes/PYQs.</p>
+      <h3><a href="https://github.com/YASHAGARWAL07/CURAJ_CampusHub_old1">CURAJ Campus Hub</a></h3>
+      <p>All-in-one campus utility platform for Central University of Rajasthan students &mdash; Lost &amp; Found, ride sharing, marketplace, and shared notes/PYQs. <a href="https://curaj-campus-hub.vercel.app">Live demo</a>.</p>
       <p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/bcrypt-525252?style=flat-square&logo=letsencrypt&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -131,7 +125,7 @@ CS undergraduate at the Central University of Rajasthan. I build full-stack appl
   </tr>
 </table>
 
-<sub>The project links use clean slugs (<code>curaj-campus-hub</code>, etc.). Create each repo with the matching name and the links resolve; until then they 404. My live work-in-progress repo is <a href="https://github.com/YASHAGARWAL07/CURAJ_CampusHub_old1">CURAJ_CampusHub_old1</a>.</sub>
+<sub>Campus Hub links to its live repo. The Heart Disease and AI Assistant links use clean slugs (<code>heart-disease-prediction</code>, <code>curaj-ai-assistant</code>) &mdash; create repos with those names and the links resolve; until then they 404.</sub>
 
 <br/>
 
