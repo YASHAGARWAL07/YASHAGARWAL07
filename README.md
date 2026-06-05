@@ -1,95 +1,150 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yash%20Agarwal&fontSize=46&fontColor=ffffff&animation=fadeIn&color=0:00c6ff,50:0072ff,100:00ff88"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Yash%20Agarwal&fontSize=44&fontColor=ffffff&animation=fadeIn&color=0:0b1221,40:0072ff,100:00ff88"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=00FFAA&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%28MERN%29;DSA+%2B+Competitive+Programming;CS+undergrad+%40+Central+University+of+Rajasthan"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=900&color=00FFAA&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%E2%80%94+MERN;DSA+%2B+Competitive+Programming+in+C%2B%2B;CS+undergrad+%40+Central+University+of+Rajasthan"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-agarwal0007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/YASH_AGARWAL_O7"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/YASH_AGARWAL_O7"><img src="https://img.shields.io/badge/X-0b1221?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="https://leetcode.com/u/YASH_AGARWAL_07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.geeksforgeeks.org/profile/yashagarwal07"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="mailto:yashagarwal.connect@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://yashagarwalportfolio-roan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
----
-
-### About
-
-I'm a Computer Science undergrad at the Central University of Rajasthan, based in Jaipur. Most of my time goes into two things: building full-stack web apps with the MERN stack, and grinding data structures and algorithms in C++. I like problems where the hard part is making something actually scale rather than just making it run once.
-
-Right now I'm building [CURAJ Campus Hub](https://github.com/YASHAGARWAL07/CURAJ_CampusHub_old1) — a campus utility platform for my university — and working through system design on the side. Happy to talk about web dev, CP, or anything in between.
-
----
-
-### Tech I work with
-
-**Languages** &nbsp;&middot;&nbsp; C++ &nbsp;&middot;&nbsp; Python &nbsp;&middot;&nbsp; JavaScript &nbsp;&middot;&nbsp; C
 <br/>
-**Frontend** &nbsp;&middot;&nbsp; React &nbsp;&middot;&nbsp; HTML &nbsp;&middot;&nbsp; CSS
-<br/>
-**Backend** &nbsp;&middot;&nbsp; Node.js &nbsp;&middot;&nbsp; Express &nbsp;&middot;&nbsp; MongoDB
-<br/>
-**Tooling** &nbsp;&middot;&nbsp; Git &nbsp;&middot;&nbsp; Docker &nbsp;&middot;&nbsp; AWS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,react,nodejs,express,mongodb,docker,aws,git,github&perline=12"/>
-</p>
+## &#9656;&nbsp; About
 
----
-
-### Projects
-
-**[CURAJ Campus Hub](https://github.com/YASHAGARWAL07/curaj-campus-hub)** &mdash; an all-in-one platform for Central University of Rajasthan students, covering Lost &amp; Found, ride sharing, a marketplace, and shared notes/PYQs. Built on the MERN stack.
-
-**[Heart Disease Prediction Model](https://github.com/YASHAGARWAL07/heart-disease-prediction)** &mdash; a machine-learning system that estimates cardiac risk from patient health metrics. Python, scikit-learn.
-
-**[CURAJ AI Assistant](https://github.com/YASHAGARWAL07/curaj-ai-assistant)** &mdash; a Smart India Hackathon prototype: an AI assistant that answers campus and academic queries in natural language.
-
-> The three repos above use clean URL slugs. Create each repo with the matching name (e.g. `curaj-campus-hub`) and the links + pinned cards below will resolve. Until then they'll 404, so pin them once they exist.
-
-<p align="center">
-  <a href="https://github.com/YASHAGARWAL07/curaj-campus-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YASHAGARWAL07&repo=curaj-campus-hub&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/YASHAGARWAL07/heart-disease-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YASHAGARWAL07&repo=heart-disease-prediction&theme=tokyonight&hide_border=true"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/YASHAGARWAL07/curaj-ai-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YASHAGARWAL07&repo=curaj-ai-assistant&theme=tokyonight&hide_border=true"/></a>
-</p>
-
----
-
-### What I've been up to
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YASHAGARWAL07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHAGARWAL07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YASHAGARWAL07&theme=tokyonight&hide_border=true"/>
-</p>
-
-<details>
-<summary>Stats cards rendering blank? (read me)</summary>
+CS undergraduate at the Central University of Rajasthan. I build full-stack applications with the MERN stack and solve algorithmic problems in C++. Focused on writing clean, scalable backends and shipping projects end to end.
 
 <br/>
 
-GitHub's most popular stats cards are served from a public Vercel instance that hit free-tier rate limits in early 2026, so they sometimes show as broken images. Two fixes:
+## &#9656;&nbsp; Tech Stack
 
-1. **Quick:** the streak card above already uses a community mirror (`nirzak-streak-stats`) that's less congested. If the main two cards break, swapping `github-readme-stats.vercel.app` for a mirror usually helps.
-2. **Permanent (recommended):** self-host the cards or generate them as static SVGs via a GitHub Actions workflow that commits them to this repo on a schedule. That removes the rate-limit dependency entirely. See the [github-readme-stats self-hosting guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4 align="center">Frontend</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,js,html,css&perline=2"/>
+      </p>
+      <p align="center">
+        <sub>React &middot; JavaScript &middot; HTML5 &middot; CSS3</sub>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">Backend</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp&perline=2"/>
+      </p>
+      <p align="center">
+        <sub>Node.js &middot; Express &middot; Python &middot; C++</sub>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">Databases &amp; Tools</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb,aws,docker,git&perline=2"/>
+      </p>
+      <p align="center">
+        <sub>MongoDB &middot; AWS &middot; Docker &middot; Git</sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
-</details>
+<br/>
 
----
+## &#9656;&nbsp; GitHub Stats
 
-### Find me elsewhere
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YASHAGARWAL07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00ff88&icon_color=00c6ff"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHAGARWAL07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00ff88"/>
+</p>
 
-I solve regularly on [LeetCode](https://leetcode.com/u/YASH_AGARWAL_07/) and [GeeksforGeeks](https://www.geeksforgeeks.org/profile/yashagarwal07), post the occasional thread on [X](https://x.com/YASH_AGARWAL_O7), and keep my work at [my portfolio](https://yashagarwalportfolio-roan.vercel.app/). Fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/yash-agarwal0007) or [email](mailto:yashagarwal.connect@gmail.com).
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YASHAGARWAL07&theme=tokyonight&hide_border=true&ring=00ff88&fire=00c6ff&currStreakLabel=00ff88"/>
+</p>
+
+<br/>
+
+## &#9656;&nbsp; Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/YASH_AGARWAL_07/">
+    <img height="180" src="https://leetcard.jacoblin.cool/YASH_AGARWAL_07?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/yashagarwal07">
+    <img height="150" src="https://gfgstatscard.vercel.app/yashagarwal07"/>
+  </a>
+</p>
+
+<br/>
+
+## &#9656;&nbsp; Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/YASHAGARWAL07/curaj-campus-hub">CURAJ Campus Hub</a></h4>
+      <p>All-in-one campus utility platform for Central University of Rajasthan students &mdash; Lost &amp; Found, ride sharing, marketplace, and shared notes/PYQs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/YASHAGARWAL07/heart-disease-prediction">Heart Disease Prediction</a></h4>
+      <p>Machine-learning model that estimates cardiac risk from patient health metrics, with data preprocessing and model evaluation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/YASHAGARWAL07/curaj-ai-assistant">CURAJ AI Assistant</a></h4>
+      <p>Smart India Hackathon prototype &mdash; an AI assistant that answers campus and academic queries in natural language.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
+<sub>The project links use clean slugs (<code>curaj-campus-hub</code>, etc.). Create each repo with the matching name and the links resolve; until then they 404. My live work-in-progress repo is <a href="https://github.com/YASHAGARWAL07/CURAJ_CampusHub_old1">CURAJ_CampusHub_old1</a>.</sub>
+
+<br/>
+
+## &#9656;&nbsp; Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-agarwal0007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/YASH_AGARWAL_O7"><img src="https://img.shields.io/badge/X-0b1221?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:yashagarwal.connect@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yashagarwalportfolio-roan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YASHAGARWAL07&label=Profile%20views&color=0072ff&style=flat-square"/>
 </p>
+
+<details>
+<summary><sub>Stats cards rendering blank? (read me)</sub></summary>
+<br/>
+<sub>The popular GitHub stat cards are served from a public Vercel instance that hit free-tier rate limits in early 2026, so they occasionally show as broken images. The streak card here already uses a less-congested community mirror. For a permanent fix, self-host the cards or generate them as static SVGs via a GitHub Actions workflow committed to this repo &mdash; see the <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">self-hosting guide</a>.</sub>
+</details>
