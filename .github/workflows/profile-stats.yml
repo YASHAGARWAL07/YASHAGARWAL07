@@ -1,0 +1,69 @@
+# Generates GitHub stats cards as static SVGs committed to this repo,
+# so they always render in your README (no Vercel rate limits).
+#
+# Setup (one time):
+#   1. Put this file at .github/workflows/profile-stats.yml in your
+#      YASHAGARWAL07/YASHAGARWAL07 profile repo.
+#   2. Repo Settings -> Actions -> General -> Workflow permissions:
+#      select "Read and write permissions", then Save.
+#   3. (Optional, for private-repo stats) Settings -> Secrets and variables
+#      -> Actions -> New repository secret named GH_STATS_PAT, with a
+#      classic PAT (repo + read:user scopes). If you skip this, the built-in
+#      GITHUB_TOKEN is used and only public stats are counted.
+#   4. Actions tab -> "Generate profile stats" -> Run workflow (first run).
+#      After that it auto-runs every 6 hours.
+
+name: Generate profile stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # manual "Run workflow" button
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate overview card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_STATS_PAT || secrets.GITHUB_TOKEN }}
+          user: YASHAGARWAL07
+          filename: github-metrics/overview.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_limit: 0
+
+      - name: Generate languages card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_STATS_PAT || secrets.GITHUB_TOKEN }}
+          user: YASHAGARWAL07
+          filename: github-metrics/languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_threshold: 1%
+          plugin_languages_limit: 8
+
+      - name: Commit generated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-metrics/*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh profile stats [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
