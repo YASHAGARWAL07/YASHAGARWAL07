@@ -39,8 +39,8 @@ CS undergraduate at the Central University of Rajasthan. I build full-stack appl
     </td>
     <td align="center" width="33%">
       <h3>Databases &amp; Tools</h3>
-      <img height="50" src="https://skillicons.dev/icons?i=mongodb,aws,docker,git&perline=4"/>
-      <br/><sub>MongoDB &middot; AWS &middot; Docker &middot; Git</sub>
+      <img height="50" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,docker,git&perline=6"/>
+      <br/><sub>MongoDB &middot; MySQL &middot; PostgreSQL &middot; AWS &middot; Docker &middot; Git</sub>
     </td>
   </tr>
 </table>
